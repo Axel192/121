@@ -1,6 +1,5 @@
 body {
-  margin: 0%;
-  padding: 0%;
+  margin: 0;
 }
 * {
   box-sizing: border-box;
@@ -9,14 +8,14 @@ body {
 
 .button {
   display: inline-block;
-  width: 80%;
-  height: 80%;
+  width: 500px;
+  height: 400px;
   background-color: red;
   color: rgb(102, 255, 0);
   text-decoration: none;
   padding-left: 30px;
   padding-top: 90px;
-  font-size: 40%;
+  font-size: 100px;
   background-image: url(bird.gif);
   border: 5px solid grey;
   box-shadow: 10px 20px 15px grey;
@@ -24,8 +23,8 @@ body {
 
 .button:hover {
   display: inline-block;
-  width: 27%;
-  height: 80%;
+  width: 500px;
+  height: 400px;
   background-color: blue;
   color: white;
 }
