@@ -1,23 +1,25 @@
 * {
   box-sizing: border-box;
+  background-image: url(cat.gif);
 }
 
 .button {
   display: inline-block;
-  width: 700px;
-  height: 600px;
+  width: 500px;
+  height: 400px;
   background-color: red;
   color: rgb(102, 255, 0);
   text-decoration: none;
   padding-left: 30px;
   padding-top: 90px;
-  font-size: 150px;
+  font-size: 100px;
+  background-image: url(bird.gif);
 }
 
 .button:hover {
   display: inline-block;
-  width: 700px;
-  height: 600px;
+  width: 500px;
+  height: 400px;
   background-color: blue;
   color: white;
 }
