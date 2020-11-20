@@ -7,10 +7,9 @@
   width: 700px;
   height: 600px;
   background-color: red;
-  margin-left: 400px;
   color: rgb(102, 255, 0);
   text-decoration: none;
-  padding-left: 70px;
+  padding-left: 30px;
   padding-top: 90px;
   font-size: 150px;
 }
@@ -20,10 +19,9 @@
   width: 700px;
   height: 600px;
   background-color: blue;
-  margin-left: 400px;
   color: white;
 }
 
 .what {
-  margin-left: 200px;
+  text-align: center;
 }
