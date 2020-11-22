@@ -1,6 +1,3 @@
-body {
-  margin: 0;
-}
 * {
   box-sizing: border-box;
   background-image: url(vate.gif);
@@ -9,10 +6,9 @@ body {
   text-align: center;
   display: inline-block;
   width: 80%;
-  height: 900px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 30px;
+  margin-top: 60px;
 }
 .button {
   display: inline-block;
@@ -39,4 +35,8 @@ body {
 
 .what {
   text-align: center;
+}
+
+.huu {
+  margin-top: 140px;
 }
