@@ -3,7 +3,7 @@ body {
 }
 * {
   box-sizing: border-box;
-  background-image: url(cat.gif);
+  background-image: url(vate.gif);
 }
 .container {
   text-align: center;
@@ -12,7 +12,7 @@ body {
   height: 900px;
   margin-left: auto;
   margin-right: auto;
-  background-color: tomato;
+  margin-top: 30px;
 }
 .button {
   display: inline-block;
